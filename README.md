@@ -1,2 +1,3 @@
 # typescript-deepdive
-Typescript Deep Diveをやる
+
+[Typescript Deep Dive](https://typescript-jp.gitbook.io/deep-dive/)をやる
